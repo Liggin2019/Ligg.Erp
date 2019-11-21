@@ -1,2 +1,1 @@
-# Lg.CMS
-It is a content management system for following content types:  page, image collection,  article, document, file, survey, etc, permission&amp;role management, supports SSO.
+It is a content management system based on .net MVC and Jquery, supports following content types:  page, image collection,  article, document, file, survey, etc, provides functions of permission&role management and SSO, can define personalized portal by user or user group.
