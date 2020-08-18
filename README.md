@@ -6,8 +6,8 @@
 
 
 
+
 This repository is a demo of basic infrastructure and functions (Organization / user / role / authority / interface) of an ERP system for small and medium-sized industrial enterprises with reference to SAP ERP architecture. The back-end is based on ABP vNext 2.5 (. Net core 3.1 / webapi / JWT / Autofac / EF / swagger /...); the fore-end based on Ligg.EasyWinForm And Vue. Design ideas can refer to / doc/ scheme.doc and design.xlsx 。 The back-end and fore-end codes refer to meowv/blog and lxshwyan/Blog.Core respectively. Thank you two very much.
 
 //**Remarks
-
 At present, only the back-end source code is uploaded, and the fore-end source code will be gradually uploaded after improvement.
