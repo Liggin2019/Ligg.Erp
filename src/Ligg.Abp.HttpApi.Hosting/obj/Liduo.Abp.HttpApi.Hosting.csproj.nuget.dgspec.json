@@ -1,0 +1,656 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi.Hosting\\Liduo.Abp.HttpApi.Hosting.csproj": {}
+  },
+  "projects": {
+    "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application.Contracts\\Ligg.Abp.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application.Contracts\\Ligg.Abp.Application.Contracts.csproj",
+        "projectName": "Ligg.Abp.Application.Contracts",
+        "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application.Contracts\\Ligg.Abp.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\adm-dev\\.nuget\\packages\\",
+        "outputPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adm-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.Domain.Contracts\\Ligg.Abp.Domain.Shared.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.Domain.Contracts\\Ligg.Abp.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application\\Ligg.Abp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application\\Ligg.Abp.Application.csproj",
+        "projectName": "Ligg.Abp.Application",
+        "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application\\Ligg.Abp.Application.csproj",
+        "packagesPath": "C:\\Users\\adm-dev\\.nuget\\packages\\",
+        "outputPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adm-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application.Contracts\\Ligg.Abp.Application.Contracts.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application.Contracts\\Ligg.Abp.Application.Contracts.csproj"
+              },
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.Domain.Contracts\\Ligg.Abp.Domain.Shared.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.Domain.Contracts\\Ligg.Abp.Domain.Shared.csproj"
+              },
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Base\\Ligg.Base.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Base\\Ligg.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Baidu.AI": {
+              "target": "Package",
+              "version": "[3.6.14, )"
+            },
+            "IP2Region": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "TencentCloudSDK": {
+              "target": "Package",
+              "version": "[3.0.49, )"
+            },
+            "Volo.Abp.Identity.Application": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Domain\\Ligg.Abp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Domain\\Ligg.Abp.Domain.csproj",
+        "projectName": "Ligg.Abp.Domain",
+        "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Domain\\Ligg.Abp.Domain.csproj",
+        "packagesPath": "C:\\Users\\adm-dev\\.nuget\\packages\\",
+        "outputPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adm-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.Domain.Contracts\\Ligg.Abp.Domain.Shared.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.Domain.Contracts\\Ligg.Abp.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.Identity.Domain": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi.Hosting\\Liduo.Abp.HttpApi.Hosting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi.Hosting\\Liduo.Abp.HttpApi.Hosting.csproj",
+        "projectName": "Ligg.Abp.HttpApi.Hosting",
+        "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi.Hosting\\Liduo.Abp.HttpApi.Hosting.csproj",
+        "packagesPath": "C:\\Users\\adm-dev\\.nuget\\packages\\",
+        "outputPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi.Hosting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adm-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application\\Ligg.Abp.Application.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application\\Ligg.Abp.Application.csproj"
+              },
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi\\Ligg.Abp.HttpApi.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi\\Ligg.Abp.HttpApi.csproj"
+              },
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Swagger\\Liduo.Abp.Swagger.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Swagger\\Liduo.Abp.Swagger.csproj"
+              },
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.EntityFrameworkCore\\Ligg.Abp.EntityFrameworkCore.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.EntityFrameworkCore\\Ligg.Abp.EntityFrameworkCore.csproj"
+              },
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Base\\Ligg.Base.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Base\\Ligg.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi\\Ligg.Abp.HttpApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi\\Ligg.Abp.HttpApi.csproj",
+        "projectName": "Ligg.Abp.HttpApi",
+        "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi\\Ligg.Abp.HttpApi.csproj",
+        "packagesPath": "C:\\Users\\adm-dev\\.nuget\\packages\\",
+        "outputPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.HttpApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adm-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application.Contracts\\Ligg.Abp.Application.Contracts.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application.Contracts\\Ligg.Abp.Application.Contracts.csproj"
+              },
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application\\Ligg.Abp.Application.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Application\\Ligg.Abp.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Volo.Abp.Identity.HttpApi": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Swagger\\Liduo.Abp.Swagger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Swagger\\Liduo.Abp.Swagger.csproj",
+        "projectName": "Ligg.Abp.Swagger",
+        "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Swagger\\Liduo.Abp.Swagger.csproj",
+        "packagesPath": "C:\\Users\\adm-dev\\.nuget\\packages\\",
+        "outputPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Swagger\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adm-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Domain\\Ligg.Abp.Domain.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Domain\\Ligg.Abp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "Volo.Abp.AspNetCore": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.Domain.Contracts\\Ligg.Abp.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.Domain.Contracts\\Ligg.Abp.Domain.Shared.csproj",
+        "projectName": "Ligg.Abp.Domain.Shared",
+        "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.Domain.Contracts\\Ligg.Abp.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\adm-dev\\.nuget\\packages\\",
+        "outputPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.Domain.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adm-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.EntityFrameworkCore\\Ligg.Abp.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.EntityFrameworkCore\\Ligg.Abp.EntityFrameworkCore.csproj",
+        "projectName": "Ligg.Abp.EntityFrameworkCore",
+        "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.EntityFrameworkCore\\Ligg.Abp.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\adm-dev\\.nuget\\packages\\",
+        "outputPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.App.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adm-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Domain\\Ligg.Abp.Domain.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Domain\\Ligg.Abp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.EntityFrameworkCore.PostgreSql": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Base\\Ligg.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Base\\Ligg.Base.csproj",
+        "projectName": "Ligg.Base",
+        "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Base\\Ligg.Base.csproj",
+        "packagesPath": "C:\\Users\\adm-dev\\.nuget\\packages\\",
+        "outputPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\adm-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Domain\\Ligg.Abp.Domain.csproj": {
+                "projectPath": "E:\\Doing\\coding\\Ligg.Erp\\src\\Ligg.Abp.Domain\\Ligg.Abp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[1.0.0-beta0007, )"
+            },
+            "SixLabors.ImageSharp.Drawing": {
+              "target": "Package",
+              "version": "[1.0.0-beta0007, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

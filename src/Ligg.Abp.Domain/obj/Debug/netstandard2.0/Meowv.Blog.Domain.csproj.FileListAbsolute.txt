@@ -1,0 +1,64 @@
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.deps.json
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.xml
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.Shared.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.Shared.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csprojAssemblyReference.cache
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.AssemblyInfoInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.AssemblyInfo.cs
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csproj.CopyComplete
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.deps.json
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.xml
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.Shared.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.Shared.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csprojAssemblyReference.cache
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.AssemblyInfoInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.AssemblyInfo.cs
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csproj.CoreCompileInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csproj.CopyComplete
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.deps.json
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.xml
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.Shared.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.Shared.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csprojAssemblyReference.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.AssemblyInfoInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.AssemblyInfo.cs
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csproj.CoreCompileInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csproj.CopyComplete
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.deps.json
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.xml
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.Shared.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.Shared.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csprojAssemblyReference.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.AssemblyInfoInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.AssemblyInfo.cs
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csproj.CoreCompileInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csproj.CopyComplete
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.pdb
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.deps.json
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.dll
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.pdb
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.xml
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.Shared.dll
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\bin\Debug\netstandard2.0\Meowv.Blog.Domain.Shared.pdb
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csprojAssemblyReference.cache
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csproj.CoreCompileInputs.cache
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.AssemblyInfoInputs.cache
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.AssemblyInfo.cs
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.csproj.CopyComplete
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.dll
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.Domain\obj\Debug\netstandard2.0\Meowv.Blog.Domain.pdb

@@ -1,0 +1,438 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application\\Meowv.Blog.Application.csproj": {}
+  },
+  "projects": {
+    "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Caching\\Meowv.Blog.Application.Caching.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Caching\\Meowv.Blog.Application.Caching.csproj",
+        "projectName": "Meowv.Blog.Application.Caching",
+        "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Caching\\Meowv.Blog.Application.Caching.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Caching\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Contracts\\Meowv.Blog.Application.Contracts.csproj": {
+                "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Contracts\\Meowv.Blog.Application.Contracts.csproj"
+              },
+              "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj": {
+                "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj"
+              },
+              "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain\\Meowv.Blog.Domain.csproj": {
+                "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain\\Meowv.Blog.Domain.csproj"
+              },
+              "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.ToolKits\\Meowv.Blog.ToolKits.csproj": {
+                "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.ToolKits\\Meowv.Blog.ToolKits.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Redis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Volo.Abp.Caching": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Contracts\\Meowv.Blog.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Contracts\\Meowv.Blog.Application.Contracts.csproj",
+        "projectName": "Meowv.Blog.Application.Contracts",
+        "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Contracts\\Meowv.Blog.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj": {
+                "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application\\Meowv.Blog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application\\Meowv.Blog.Application.csproj",
+        "projectName": "Meowv.Blog.Application",
+        "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application\\Meowv.Blog.Application.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Caching\\Meowv.Blog.Application.Caching.csproj": {
+                "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Caching\\Meowv.Blog.Application.Caching.csproj"
+              },
+              "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Contracts\\Meowv.Blog.Application.Contracts.csproj": {
+                "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Application.Contracts\\Meowv.Blog.Application.Contracts.csproj"
+              },
+              "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj": {
+                "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Baidu.AI": {
+              "target": "Package",
+              "version": "[3.6.14, )"
+            },
+            "IP2Region": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "TencentCloudSDK": {
+              "target": "Package",
+              "version": "[3.0.49, )"
+            },
+            "Volo.Abp.Identity.Application": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj",
+        "projectName": "Meowv.Blog.Domain.Shared",
+        "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain\\Meowv.Blog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain\\Meowv.Blog.Domain.csproj",
+        "projectName": "Meowv.Blog.Domain",
+        "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain\\Meowv.Blog.Domain.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj": {
+                "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain.Shared\\Meowv.Blog.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.Identity.Domain": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.ToolKits\\Meowv.Blog.ToolKits.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.ToolKits\\Meowv.Blog.ToolKits.csproj",
+        "projectName": "Meowv.Blog.ToolKits",
+        "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.ToolKits\\Meowv.Blog.ToolKits.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.ToolKits\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain\\Meowv.Blog.Domain.csproj": {
+                "projectPath": "E:\\Repository\\data_bak\\company\\2020-liduo\\zz-doing\\code-testing\\LiduoErpTesting\\src\\Meowv.Blog.Domain\\Meowv.Blog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[1.0.0-beta0007, )"
+            },
+            "SixLabors.ImageSharp.Drawing": {
+              "target": "Package",
+              "version": "[1.0.0-beta0007, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

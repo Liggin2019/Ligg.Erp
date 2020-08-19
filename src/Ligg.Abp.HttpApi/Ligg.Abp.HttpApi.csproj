@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<Import Project="..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Ligg.Abp.HttpApi</RootNamespace>
+    <AssemblyName>Ligg.Abp.HttpApi</AssemblyName>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>..\Ligg.Abp.HttpApi.Hosting\Ligg.Abp.HttpApi.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.Identity.HttpApi" Version="2.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ligg.Abp.Application.Contracts\Ligg.Abp.Application.Contracts.csproj" />
+    <ProjectReference Include="..\Ligg.Abp.Application\Ligg.Abp.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\Biz\Pm\" />
+  </ItemGroup>
+
+</Project>

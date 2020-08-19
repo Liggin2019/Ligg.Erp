@@ -1,0 +1,13 @@
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\bin\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.deps.json
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\bin\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.dll
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\bin\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.pdb
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\bin\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.xml
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\bin\Debug\netcoreapp3.1\Ligg.Abp.Domain.Shared.dll
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\bin\Debug\netcoreapp3.1\Ligg.Abp.Domain.Shared.pdb
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\obj\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.csprojAssemblyReference.cache
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\obj\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.AssemblyInfoInputs.cache
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\obj\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.AssemblyInfo.cs
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\obj\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\obj\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.csproj.CopyComplete
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\obj\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.dll
+E:\Doing\coding\Ligg.Erp\src\Ligg.Abp.Application.Contracts\obj\Debug\netcoreapp3.1\Ligg.Abp.Application.Contracts.pdb

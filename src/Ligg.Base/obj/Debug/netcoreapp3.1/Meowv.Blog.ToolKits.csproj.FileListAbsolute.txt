@@ -1,0 +1,73 @@
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.deps.json
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.Shared.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.xml
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.Shared.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csprojAssemblyReference.cache
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.AssemblyInfoInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.AssemblyInfo.cs
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csproj.CopyComplete
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.deps.json
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.Shared.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.xml
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.Shared.pdb
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csprojAssemblyReference.cache
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.AssemblyInfoInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.AssemblyInfo.cs
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csproj.CoreCompileInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csproj.CopyComplete
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.dll
+D:\a-liduo-data\zz-doing\code-testing\Meowv.Blog-ref - 副本\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.deps.json
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.Shared.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.xml
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.Shared.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csprojAssemblyReference.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.AssemblyInfoInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.AssemblyInfo.cs
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csproj.CoreCompileInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csproj.CopyComplete
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting1\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.deps.json
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.Shared.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.xml
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.Domain.Shared.pdb
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csprojAssemblyReference.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.AssemblyInfoInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.AssemblyInfo.cs
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csproj.CoreCompileInputs.cache
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csproj.CopyComplete
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.dll
+D:\a-liduo-data\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.pdb
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.deps.json
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.dll
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.pdb
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csprojAssemblyReference.cache
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csproj.CoreCompileInputs.cache
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.AssemblyInfoInputs.cache
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.AssemblyInfo.cs
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.csproj.CopyComplete
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.dll
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\obj\Debug\netcoreapp3.1\Meowv.Blog.ToolKits.pdb
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Liduo.Abp.Domain.dll
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Liduo.Abp.Domain.pdb
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Liduo.Abp.Domain.Contracts.dll
+E:\Repository\data_bak\company\2020-liduo\zz-doing\code-testing\LiduoErpTesting\src\Meowv.Blog.ToolKits\bin\Debug\netcoreapp3.1\Liduo.Abp.Domain.Contracts.pdb
