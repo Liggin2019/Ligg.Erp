@@ -3,5 +3,6 @@
 
 This project is an enterprise management system architecture based on. Net core 3.1. The back-end is based on ABP vNext 2.5 (. Net core 3.1 / webapi / JWT / Autofac / EF / swagger /...); the front-end technology includes Ligg.EasyWinForm 3.51 (system management), Vue 2.5 (main interface), and. Net core MVC (responsive web page). The back-end and front-end codes refer to meowv / blog and Panjia Chen respectively。 Thank you both.
 
+
 //**备注: 目前只上传了后台的源码，完善后将逐步上传前台源码。
 /**Remarks: At present, only the back-end source code is uploaded, and the fore-end source code will be gradually uploaded after improvement.
