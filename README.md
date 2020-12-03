@@ -1,6 +1,5 @@
 ## Inroduction：
 This solution  aims to bulid  a full set of  enterprise management system SAAS architecture.  including 4 projects: Ligg.Abp, Ligg.Vue, Ligg.Ewa, Ligg.Mvc. Following is the a diagram of their structure.
-![diagram of their structure](https://gitee.com/uploads/images/2018/0328/150758_26ef9d61_362401.png "diagram of their structure")
 
 ## Ligg.Abp
  Ligg.Abp is the main server end connected to main database to provide Restful interface to Ligg.Vue, Ligg.Ewa, Ligg.Mvc, based on ABP vNext 2.5 (. Net core 3.1, webapi,  JWT, Autofac, EF(code first), swagger ...);
