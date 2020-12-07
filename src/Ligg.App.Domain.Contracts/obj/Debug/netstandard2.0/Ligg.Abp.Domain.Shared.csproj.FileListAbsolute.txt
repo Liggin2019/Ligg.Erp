@@ -1,9 +1,0 @@
-E:\Doing\coding\Ligg.Erp\src\Ligg.App.Domain.Contracts\bin\Debug\netstandard2.0\Ligg.Abp.Domain.Shared.deps.json
-E:\Doing\coding\Ligg.Erp\src\Ligg.App.Domain.Contracts\bin\Debug\netstandard2.0\Ligg.Abp.Domain.Shared.dll
-E:\Doing\coding\Ligg.Erp\src\Ligg.App.Domain.Contracts\bin\Debug\netstandard2.0\Ligg.Abp.Domain.Shared.pdb
-E:\Doing\coding\Ligg.Erp\src\Ligg.App.Domain.Contracts\obj\Debug\netstandard2.0\Ligg.Abp.Domain.Shared.csprojAssemblyReference.cache
-E:\Doing\coding\Ligg.Erp\src\Ligg.App.Domain.Contracts\obj\Debug\netstandard2.0\Ligg.Abp.Domain.Shared.AssemblyInfoInputs.cache
-E:\Doing\coding\Ligg.Erp\src\Ligg.App.Domain.Contracts\obj\Debug\netstandard2.0\Ligg.Abp.Domain.Shared.AssemblyInfo.cs
-E:\Doing\coding\Ligg.Erp\src\Ligg.App.Domain.Contracts\obj\Debug\netstandard2.0\Ligg.Abp.Domain.Shared.csproj.CoreCompileInputs.cache
-E:\Doing\coding\Ligg.Erp\src\Ligg.App.Domain.Contracts\obj\Debug\netstandard2.0\Ligg.Abp.Domain.Shared.dll
-E:\Doing\coding\Ligg.Erp\src\Ligg.App.Domain.Contracts\obj\Debug\netstandard2.0\Ligg.Abp.Domain.Shared.pdb
